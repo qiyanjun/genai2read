@@ -11,7 +11,7 @@ highlighter:      rouge
 # Permalinks
 permalink:      pretty
 baseurl:        /genai2read/
-url:            https://qiyanjun.github.io/
+url:            "https://qiyanjun.github.io/"
 
 # Setup
 title:              "My GenAI Readings"
@@ -21,7 +21,7 @@ future:       true
 
 author:
   name:           'Dr. Yanjun Qi'
-  url:            https://scholar.google.com/citations?user=eXKdSu0AAAAJ&hl=en
+  url:            "https://qiyanjun.github.io/Homepage/"
 
 
 remote_theme: mmistakes/minimal-mistakes
