@@ -7,3 +7,26 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+
+sidebar-sample:
+  - title: "Index"
+    children:
+    - title: "PostsByYear"
+      url: /posts/
+    - title: "PostsByTags"
+      url: /tags/
+    - title: "PostsByCategory"
+      url: /categories/
+  - title: "Recent Posts By GenAI Category"
+    children:
+      - title: "FM Basic"
+        url: /categories/FMBasic/
+      - title: "FM Adapt"
+        url: /categories//FMAdapt/
+      - title: "FM Risk"
+        url: /categories//FMRisk/
+      - title: "FM Multi"
+        url: /categories//FMMulti/
+      - title: "FM Efficiency"
+        url: /categories//FMEfficient/
