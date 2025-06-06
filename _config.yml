@@ -14,9 +14,9 @@ baseurl:        /genai2read/
 url:            "https://qiyanjun.github.io/"
 
 # Setup
-title:              "My GenAI Readings"
+title:              "My Generative AI Readings"
 tagline:            "My GenAI Readings"
-description:        "My GenAI Readings"
+description:        "Dr. Yanjun Qi's Generative AI Readings"
 future:       true
 
 
