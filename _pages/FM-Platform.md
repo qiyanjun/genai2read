@@ -1,12 +1,12 @@
 ---
 toc: true
 layout: category
-permalink: /categories/FMMulti/
-taxonomy: FMMulti
+permalink: /categories/Platform/
+taxonomy: Platform
 entries_layout: list
 classes: wide
-title: FMMulti
-desc: "Recent Readings for Multimodal and Beyond of Foundation Models (since 2022)"
+title: Platform
+desc: "Recent Readings for Platform Topics of Foundation Models (since 2022)"
 order: "0"
 author_profile: true
 sidebar:
