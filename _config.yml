@@ -19,9 +19,22 @@ tagline:            "My GenAI Readings"
 description:        "My GenAI Readings"
 future:       true
 
+
+
 author:
-  name:           'Dr. Yanjun Qi'
-  url:            "https://qiyanjun.github.io/Homepage/"
+  name   : "Dr. Yanjun Qi"
+  bio: "Recent GenAI Papers I Read. "
+  links:
+    - label: "MyHomePage"
+      icon: "fas fa-fw fa-link"
+      url: "https://qiyanjun.github.io/Homepage/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Qdatalab"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/QData"
+
 
 
 remote_theme: mmistakes/minimal-mistakes
