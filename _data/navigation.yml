@@ -26,7 +26,11 @@ sidebar-sample:
         url: /categories//FMAdapt/
       - title: "FM Risk"
         url: /categories//FMRisk/
-      - title: "FM Multi"
-        url: /categories//FMMulti/
+      - title: "FM Reasoning"
+        url: /categories//Reasoning/
+      - title: "FM Agent"
+        url: /categories//Agent/
+      - title: "FM Platform"
+        url: /categories//Platform/
       - title: "FM Efficiency"
         url: /categories//FMEfficient/
